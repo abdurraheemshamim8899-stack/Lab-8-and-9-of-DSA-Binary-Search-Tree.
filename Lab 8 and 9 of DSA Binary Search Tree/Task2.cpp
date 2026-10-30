@@ -117,7 +117,7 @@ void destroyTree(Node* root) {
     delete root;
 }
 
-int main() {
+int main2() {
     Node* root = nullptr;
     int choice, id;
     string name;

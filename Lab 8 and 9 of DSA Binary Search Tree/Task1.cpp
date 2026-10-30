@@ -133,7 +133,7 @@ void destroyTree(Node* root) {
     delete root;
 }
 
-int main() {
+int main1() {
     Node* root = nullptr;
     int choice, value;
 
